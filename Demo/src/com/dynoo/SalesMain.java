@@ -6,7 +6,7 @@ public class SalesMain {
 
 		SalesData data = new SalesData();
 		
-		System.out.println("Sales Main demo");
+		System.out.println("SALES MAIN DEMO");
 		data.displayDetails();
 	}
 
