@@ -5,5 +5,6 @@ public class SalesData {
 	public void displayDetails(){
 		
 		System.out.println("TEST SALES DISPLAY DATA");
+		System.out.println("MERGE DEMO");
 	}
 }
